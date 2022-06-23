@@ -1,4 +1,4 @@
-## Olá! Eu sou a Marcio Jarros, desenvolver full-stack em formacão e estudante na Cubos Academy! 
+## Olá! Eu sou a Marcio Jarros, desenvolver full-stack em formacão na Cubos Academy!
 
 - 🔭 I’m currently working on developing my skills as a programmer and software developer.
 - 🌱 I’m currently learning React, SQL and Cryptography @CubosAcademy.
