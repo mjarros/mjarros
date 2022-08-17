@@ -1,9 +1,9 @@
 ## Olá! Eu sou Marcio Jarros, desenvolvedor full-stack.
 
 - 🔭 I’m currently working on developing my skills as a programmer and software developer.
-- 🌱 I’m currently learning React, SQL and Cryptography @CubosAcademy.
+- 🌱 I’m currently learning Dart and Typescript.
 - 👯 I’m looking to collaborate on new projets, for back-end or front-end.
-- 💬 Ask me about Node.JS, RESTful API'S, Express.JS, Javascript, HTML, CSS. 
+- 💬 Ask me about React.JS, Node.JS, RESTful API'S, Express.JS, Javascript, HTML, CSS. 
 - 📫 How to reach me: marciojarros@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I really like having contact with nature, mountains, go camping and doing yoga.
