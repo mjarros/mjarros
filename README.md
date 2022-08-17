@@ -1,4 +1,4 @@
-## Olá! Eu sou Marcio Jarros, desenvolver full-stack.
+## Olá! Eu sou Marcio Jarros, desenvolvedor full-stack.
 
 - 🔭 I’m currently working on developing my skills as a programmer and software developer.
 - 🌱 I’m currently learning React, SQL and Cryptography @CubosAcademy.
