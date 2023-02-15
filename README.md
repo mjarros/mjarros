@@ -1,12 +1,14 @@
 ## Olá! Eu sou Marcio Jarros, desenvolvedor full-stack.
 
 - 🔭 I’m currently working on developing my skills as a programmer and software developer.
-- 🌱 I’m currently learning Dart.
-- 👯 I’m looking to collaborate on new projets, for back-end or front-end.
-- 💬 Ask me about React.JS, Node.JS, RESTful API'S, Typescript, Express.JS, Javascript, HTML, CSS. 
+- 🌱 I’m currently learning React Native.
+- 👯 I’m looking to collaborate on new projets, for back-end or front-end. I must say I really prefer working with front end.
+- 💬 Ask me about React.js, Node.js, Jest.js, RESTful API'S, Typescript, Express.JS, Javascript, HTML, CSS. 
 - 📫 How to reach me: marciojarros@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I really like having contact with nature, mountains, go camping and doing yoga.
+- ⚡ Fun fact: I really like having contact with nature, mountains, go camping and doing yoga. I'm fascinated with everything related to space.
+
+- If you are interested in knowing more, please visit my personal website at: marciojarros.com.br
 
 ##
   
@@ -15,6 +17,7 @@
   <img align="center" alt="MJ-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="MJ-Node" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="MJ-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="MJ-Jest" height="30" width="40" src=""https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"">
   <img align="center" alt="MJ-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="MJ-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
 </div>
