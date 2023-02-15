@@ -1,4 +1,4 @@
-## Olá! Eu sou Marcio Jarros, desenvolvedor full-stack.
+## Hello! I'm Marcio Jarros, full stack developer.
 
 - 🔭 I’m currently working on developing my skills as a programmer and software developer.
 - 🌱 I’m currently learning React Native.
