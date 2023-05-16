@@ -1,8 +1,8 @@
 ## Hello! I'm Marcio Jarros, full stack developer.
 
-- 🔭 I’m currently working on developing my skills as a programmer and software developer.
+- 🔭 I’m currently working on learning advanced topics of development with React.
 - 🌱 I’m currently learning React Native.
-- 👯 I’m looking to collaborate on new projets, for back-end or front-end. I must say I really prefer working with front end.
+- 👯 I’m looking to collaborate on new projets, can be both back-end or front-end. I must say I really prefer working with front end.
 - 💬 Ask me about React.js, Node.js, Jest.js, RESTful API'S, Typescript, Express.JS, Javascript, HTML, CSS. 
 - 📫 How to reach me: marciojarros@gmail.com
 - 😄 Pronouns: he/him
